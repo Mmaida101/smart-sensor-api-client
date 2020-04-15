@@ -46,9 +46,9 @@ You can run each script by executing
 
     python use_cases/<use_case_file_name>
 
-| Name                                    | Explanation                                      | Links                                                                                                                         |
-|-----------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| use_case_1_list_of_assets.py            | Show the information of all the assets           | [code](use_cases/use_case_1_list_of_assets.py), [usage](use_cases/use_case_1_list_of_assets.md)                               |
-| use_case_2_plant_data.py                | Show the information of all the plants           | [code](use_cases/use_case_2_plant_data.py), [usage](use_cases/use_case_2_plant_data.md)                                       |
-| use_case_3_detailed_asset_data.py       | Show the detailed information of all the assets  | [code](use_cases/use_case_3_detailed_asset_data.py), [usage](use_cases/use_case_3_detailed_asset_data.md)                     |
-| use_case_4_latest_asset_measurements.py | Show the latest measurements from all the assets | [code](use_cases/use_case_4_latest_asset_measurements.py), [usage](use_cases/use_case_4_latest_asset_measurements.md)         |
+| Name                                                     | Explanation                                      | Links                                                                                                                           |
+| -------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| use_case_1/1_a_plant_data.py                             | Show the information of all the plants           | [code](use_cases/use_case_1/1_a_plant_data.py), [usage](use_cases/use_case_1/README.md#use_case_1_a)                            |
+| use_case_1/1_b_simplified_asset_data.py                  | Show the information of all the assets           | [code](use_cases/use_case_1/1_b_simplified_asset_data.py), [usage](use_cases/use_case_1/README.md#use_case_1_b)                 |
+| use_case_1/1_c_detailed_sensor_data_of_all_assets.py     | Show the detailed information of all the assets  | [code](use_cases/use_case_1/1_c_detailed_sensor_data_of_all_assets.py),[usage](use_cases/use_case_1/README.md#use_case_1_c)     |
+| use_case_4_latest_asset_measurements.py                  | Show the latest measurements from all the assets | [code](use_cases/use_case_4_latest_asset_measurements.py), [usage](use_cases/use_case_4_latest_asset_measurements.md)           |

@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Example 3
+"""Example 1.c)
 
 This code demonstrates how to get the asset details of all assets belonging to the user's organization.
 
 Example:
-    $ python use_case_3_detailed_asset_data.py
+    $ python 1_c_detailed_sensor_data_of_all_assets.py
 
 """
 
